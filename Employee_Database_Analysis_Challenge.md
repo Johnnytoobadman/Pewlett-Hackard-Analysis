@@ -8,12 +8,14 @@
 
 ### Pewlett Hackard has provided Bobby with the following csv files:
 
-csv files here
+![__](https://github.com/Johnnytoobadman/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/Pewlett%20Hackard%20csv%20files.png)
 
 ### Other Resources
 
 PostgreSQL 12
+
 pgAdmin 6.12
+
 Quick DBD
 
 ## Results
@@ -24,19 +26,19 @@ Using the six csv files provided by Pewlett Hackard Bobby had to take the tables
 
 ### retirement_titles.csv (1st 10 rows)
 
-here
+![__](https://github.com/Johnnytoobadman/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retirement_titles.png)
 
 Bobby then had to remove duplicate rows with older titles so he ended up with only the employees current titles.  Using the data from the retirement_titles.csv file he removed the duplicate titles and excluded any employees that have already left the company. This file was saved to a csv file titled:
 
 ### unique_titles.csv (1st 10 rows)
 
-here
+![__](https://github.com/Johnnytoobadman/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/Unique_titles.png)
 
 Bobby then needed to get a count of retiring employees grouped by titles.  This file was saved to a csv file titled:
 
-### retiring titles.csv
+### retiring_titles.csv
 
-here
+![__](https://github.com/Johnnytoobadman/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/retiring_titles.png)
 
 ### Mentorship Eligibility Analysis
 
@@ -44,7 +46,7 @@ Bobby now needs to continue working with the ERD he created and create a Mentors
 
 ### mentorship_eligibility.csv (1st 10 rows)
 
-here
+![__](https://github.com/Johnnytoobadman/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data/Mentorship_Eligibility.png)
 
 ### Observations:
 
